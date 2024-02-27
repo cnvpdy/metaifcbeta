@@ -211,7 +211,7 @@ def main():
             draw_3d_viewer()
         with col2:
 
-            tab1, tab2 = st.tabs(["수량 집계","🧮 객체 속성"])
+            tab1, tab2 = st.tabs(["수량 집계",""])
             with tab1:
                 tab_wall, tab_slab, tab_window = st.tabs(["벽","바닥","창문"])
                 with tab_wall:
