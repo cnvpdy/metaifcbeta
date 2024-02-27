@@ -4,3 +4,4 @@ matplotlib
 plotly
 pandas
 xlsxwriter
+altair
